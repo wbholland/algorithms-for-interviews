@@ -1,0 +1,1 @@
+This repository contains original solutions, written in Go, to the problems presented in _Algorithms for Interviews: A Problem Solving Approach_ by Adnan Aziz and Amit Prakash (2010). None of the text from said work is reproduced here.
